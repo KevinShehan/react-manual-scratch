@@ -8,3 +8,6 @@ root.render(
         React.createElement('p', null, "This is a simple React app.")
     )
 );
+
+
+//react render
